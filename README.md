@@ -37,7 +37,7 @@ The model is a standard **Linear Regression** trained on 80% of the data and eva
 ### Evaluation Metrics:
 * **Mean Absolute Error (MAE):** $27,463.66
 * **Root Mean Squared Error (RMSE):** $44,837.32
-* **R² Score:** 0.7379 (~73.8% of test set variance is explained by the model)
+* **R² Score:** 0.7379 (~73.8% predictive accuracy / variance explained)
 
 ### Feature Coefficients (Model Weight & Impact):
 | Feature | Coefficient | Interpretation |
